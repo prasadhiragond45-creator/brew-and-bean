@@ -1,0 +1,160 @@
+{
+  "total": 30,
+  "passed": 30,
+  "failed": 0,
+  "tests": [
+    {
+      "name": "Homepage loads with HTTP 200",
+      "pass": true,
+      "details": "Status: 200"
+    },
+    {
+      "name": "Hero Section displays title",
+      "pass": true,
+      "details": "Title: Brew &\nBean"
+    },
+    {
+      "name": "Hero Section displays stats (Origins, Guests, Years)",
+      "pass": true,
+      "details": "Stats found: 15+, 50K+, 8"
+    },
+    {
+      "name": "Navbar contains navigation links",
+      "pass": true,
+      "details": "Links: HOME, ABOUT, MENU, SIGNATURE, GALLERY, CONTACT"
+    },
+    {
+      "name": "Navbar link is clickable without errors",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "About Section renders with heading",
+      "pass": true,
+      "details": "Heading: Passion Poured\nInto Every Cup"
+    },
+    {
+      "name": "Menu Section displays menu cards",
+      "pass": true,
+      "details": "Found 20 menu items"
+    },
+    {
+      "name": "Menu category filter buttons exist",
+      "pass": true,
+      "details": "Tabs: ALL, ESPRESSO, POUR OVER, COLD BREW, TEA & MORE"
+    },
+    {
+      "name": "Category filter (Cold Brew) updates grid",
+      "pass": true,
+      "details": "Filtered count: 6"
+    },
+    {
+      "name": "Signature Drinks section displays cards",
+      "pass": true,
+      "details": "Found 6 signature drinks"
+    },
+    {
+      "name": "Food and Desserts section displays items",
+      "pass": true,
+      "details": "Found 12 food items"
+    },
+    {
+      "name": "Gallery displays images",
+      "pass": true,
+      "details": "Found 20 gallery images"
+    },
+    {
+      "name": "Gallery lightbox opens on click",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "Gallery lightbox closes on X button",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "Testimonials section renders demo reviews",
+      "pass": true,
+      "details": "Found 6 review cards"
+    },
+    {
+      "name": "Contact section renders",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "WhatsApp button has valid link format",
+      "pass": true,
+      "details": "WhatsApp link: https://wa.me/919876543210?text=Hello%20Brew%20%26%20Bean%2C%20I%20would%20like%20to%20inquire%20about%20a%20table%20reservation."
+    },
+    {
+      "name": "Footer renders navigation links",
+      "pass": true,
+      "details": "Found 6 footer nav buttons"
+    },
+    {
+      "name": "Contact reservation form submits to backend and shows success toast",
+      "pass": true,
+      "details": "Reservation request received! Please note this is an enquiry, not an instant confirmation. Our team will review table availability and contact you shortly."
+    },
+    {
+      "name": "All page images load successfully (0 broken)",
+      "pass": true,
+      "details": "0 broken images found: "
+    },
+    {
+      "name": "Browser console has zero runtime errors",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "Viewport Desktop (1440px) has no horizontal scroll overflow",
+      "pass": true,
+      "details": "Scroll width: 1440"
+    },
+    {
+      "name": "Viewport Laptop (1280px) has no horizontal scroll overflow",
+      "pass": true,
+      "details": "Scroll width: 1280"
+    },
+    {
+      "name": "Viewport Tablet (768px) has no horizontal scroll overflow",
+      "pass": true,
+      "details": "Scroll width: 768"
+    },
+    {
+      "name": "Viewport Tablet displays mobile hamburger menu button",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "Viewport Mobile (390px) has no horizontal scroll overflow",
+      "pass": true,
+      "details": "Scroll width: 390"
+    },
+    {
+      "name": "Viewport Mobile displays mobile hamburger menu button",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "Mobile hamburger menu expands on click",
+      "pass": true,
+      "details": ""
+    },
+    {
+      "name": "Viewport Small mobile (360px) has no horizontal scroll overflow",
+      "pass": true,
+      "details": "Scroll width: 360"
+    },
+    {
+      "name": "Viewport Small mobile displays mobile hamburger menu button",
+      "pass": true,
+      "details": ""
+    }
+  ],
+  "consoleErrors": [],
+  "brokenImages": [],
+  "overflows": []
+}
